@@ -1,0 +1,12 @@
+.estilo1{
+    background-color: darkorange;
+    height: 100px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.titulo{
+    font-size: x-large;
+    text-decoration-color: blue;
+    font-weight: 200;
+}
